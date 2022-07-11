@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c5b63845.css",
+    "main.js": "./static/js/main.fc9f823a.js",
+    "static/js/27.983240f7.chunk.js": "./static/js/27.983240f7.chunk.js",
+    "static/media/island.glb": "./static/media/island.a411b3fbddd0f46ab718.glb",
+    "static/media/waternormals.jpg": "./static/media/waternormals.537ec85b965d414829ab.jpg",
+    "static/media/lensflare0.png": "./static/media/lensflare0.0f76abc7ed1959fe0790.png",
+    "static/media/flamingo.glb": "./static/media/flamingo.e65cf9438e4210a07dcd.glb",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.c5b63845.css",
+    "static/js/main.fc9f823a.js"
+  ]
+}
