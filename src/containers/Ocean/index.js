@@ -229,9 +229,6 @@ export default class Earth extends React.Component {
       item.addEventListener('click', event => {
         let className = event.target.classList[event.target.classList.length - 1];
         switch (className) {
-          case 'label-0-title':
-            Animations.animateCamera(camera, controls, { x: -15, y: 80, z: 60 }, { x: 0, y: 0, z: 0 }, 1600, () => { });
-            break;
           case 'label-0':
             Animations.animateCamera(camera, controls, { x: -15, y: 80, z: 60 }, { x: 0, y: 0, z: 0 }, 1600, () => { });
             break;
@@ -302,7 +299,6 @@ export default class Earth extends React.Component {
           <span className='author'>X和Z的梦中情岛</span>
         </a>
         <div className="point point-0">
-          <div className="label label-0-title">X和Z的梦中情岛</div>
           <div className="label label-0">1</div>
           <div className="text">灯塔：矗立在海岸的岩石之上，白色的塔身以及红色的塔屋，在湛蓝色的天空和深蓝色大海的映衬下，显得如此醒目和美丽。</div>
         </div>
