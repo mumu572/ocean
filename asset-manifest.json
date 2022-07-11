@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.b8cc2b52.css",
-    "main.js": "./static/js/main.80878b6f.js",
+    "main.js": "./static/js/main.08f6c719.js",
     "static/js/27.2ed4a0d0.chunk.js": "./static/js/27.2ed4a0d0.chunk.js",
     "static/media/island.glb": "./static/media/island.a411b3fbddd0f46ab718.glb",
     "static/media/waternormals.jpg": "./static/media/waternormals.537ec85b965d414829ab.jpg",
@@ -11,6 +11,6 @@
   },
   "entrypoints": [
     "static/css/main.b8cc2b52.css",
-    "static/js/main.80878b6f.js"
+    "static/js/main.08f6c719.js"
   ]
 }
